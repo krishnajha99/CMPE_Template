@@ -1,5 +1,5 @@
 # Online Banking system
-Online Banking system (that can be accessed through Web/Mobile), made as part of Spring '21 term project for CMPE202 under Professor Gopinath Vinodh at San Jose State University.
+Online Banking system (Web/Mobile), made as part of Spring '21 term project for CMPE202 under Professor Gopinath Vinodh at San Jose State University.
   
 # Student
 
@@ -9,10 +9,10 @@ Online Banking system (that can be accessed through Web/Mobile), made as part of
 [Krishna Jha](Scrum Master)
 
 # Agile Values and Dev Process 
-[Krishna --  Respect/Feedback] <br />
-[Anupama -- Courage] <br />
-[Gunjan 	-- Communication] <br />
-[Shivam 	-- Commitment] <br />
+[Respect/Feedback](https://github.com)  <br />
+[Courage](https://github.com)  <br />
+[Communication](https://github.com)  <br />
+[Commitment](https://github.com)  <br />
 
 # Project Research 
 [Krishna - CICD Pipeline](https://github.com) <br />
@@ -22,10 +22,10 @@ Online Banking system (that can be accessed through Web/Mobile), made as part of
 [Shivam - API Gateway] <br />
 
 # Kanban Flow Diagram
-[Google Sheet]
+[TBD] [Google Sheet]/[Smart sheet]
 
 # Scrum Task Board and Burndown Chart
-[Scrum Board]
+[Scrum Board][TBD] [https://docs.google.com/spreadsheets/u/3/d/1RBzwUDx9QG7Uy8ayiFBBuhWBaJCrK5dV5T9eN2ZEfp8/edit?usp=sharing]
 
-# Architectural Overview (prone to change)
-![Architectural Overview](./Documentation/Research/arch.png)
+# Architectural Overview (TDB)
+
