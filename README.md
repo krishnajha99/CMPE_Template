@@ -3,24 +3,23 @@ Online Banking system (that can be accessed through Web/Mobile), made as part of
   
 # Student
 
-[Anupama Kurudi]
-[Gunjan Srivastava]
-[Shivam Tomar]
+[Anupama Kurudi] <br />
+[Gunjan Srivastava] <br />
+[Shivam Tomar] <br />
 [Krishna Jha](Scrum Master)
 
 # Agile Values and Dev Process 
-[Krishna --  Respect/Feedback]
-[Anupama -- Courage]
-[Gunjan 	-- Communication]
-[Shivam 	-- Commitment]
+[Krishna --  Respect/Feedback] <br />
+[Anupama -- Courage] <br />
+[Gunjan 	-- Communication] <br />
+[Shivam 	-- Commitment] <br />
 
 # Project Research 
-[ - AWS Lambda] 
-[Krishna - CICD Pipeline](https://github.com)
-[Anupama - Node & AWS Lambda]
-[Krishna - MongoDB] 
-[Gunjan - Front End]
-[Shivam - API Gateway]
+[Krishna - CICD Pipeline](https://github.com) <br />
+[Anupama - Node & AWS Lambda] <br />
+[Krishna - MongoDB] <br />
+[Gunjan - Front End] <br />
+[Shivam - API Gateway] <br />
 
 # Kanban Flow Diagram
 [Google Sheet]
