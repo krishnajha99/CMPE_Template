@@ -7,7 +7,3 @@ if the feedback is obtained at the end of every iteration, it may be very easy f
 Highest business value features are delivered first to the customer by development teams through the use of early and frequent feedback.
 
 **Updates from week 1**
-
-* Based on feedback, the development team decided to have the weekly Stand-up meeting to discuss about the updates and issues of the project.
-
-* One of the team members suggested to use Jira or rally. The team agreed to the suggestion and decided to try rally or Jira for the upcoming week.
