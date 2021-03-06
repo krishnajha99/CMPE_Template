@@ -21,12 +21,6 @@ Communication methodologies can range from every few minutes with pair programmi
 
 ## Updates from Week 1
 In Week 1 of the Project development, the Agile core value of Communication was enforced by the following:
-* A **weekly online meeting** was held in which the team discussed: 
-    <ol>
-       <li>the Agile core values to be followed during the course of the development.</li>
-       <li>the name of our Product was discussed and finalized.</li>
-       <li>the research tasks to be done by each team member on their respective Agile core value and update in the Wiki.</li> 
-       </ol>
 
 ## References:
 * [Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
