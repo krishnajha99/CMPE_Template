@@ -1,4 +1,4 @@
-# Week 1 (Spint#1 - Kickoff Meeting)
+# Week 1 (Spint#0 - Kickoff Meeting)
 
 <b>Date:</b> 03/08/2021 </br>
 <b>Time:</b> TBD PST </br>
@@ -17,7 +17,7 @@
 *  What are the team agendas for the next meeting?
 *  Resolve any Problems/Impediment faced by team members and discuss issues to pickup backlog.
 
-# Week 2 (Spint#1)
+# Week 2 (Spint#0)
 
 <b>Date:</b> TBD
 <b>Time:</b> TBD PST
