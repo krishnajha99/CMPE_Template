@@ -1,7 +1,7 @@
 # Week 1 (Spint#1 - Kickoff Meeting)
 
-<b>Date:</b> 03/08/2021 </ br>
-<b>Time:</b> TBD PST </ br>
+<b>Date:</b> 03/08/2021 </br>
+<b>Time:</b> TBD PST </br>
 <b>Place:</b> Remote Online Zoom Meeting
 
 <b>Members Present: </b> 
