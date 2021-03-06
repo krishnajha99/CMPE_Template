@@ -9,10 +9,11 @@ Online Banking system (Web/Mobile), made as part of Spring '21 term project for 
 [Krishna Jha](Scrum Master)
 
 # Agile Values and Dev Process 
-[Respect/Feedback](https://github.com)  <br />
-[Courage](https://github.com)  <br />
-[Communication](https://github.com)  <br />
-[Commitment](https://github.com)  <br />
+[Respect](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Respect.md)  <br />
+[Feedback](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Feedback.md)  <br />
+[Courage](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Courage.md)  <br />
+[Communication](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Communication.md)  <br />
+[Commitment](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Commitment.md)  <br />
 
 # Project Research 
 [Krishna - CICD Pipeline](https://github.com) <br />
