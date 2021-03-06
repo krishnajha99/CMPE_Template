@@ -16,7 +16,7 @@ Online Banking system (Web/Mobile), made as part of Spring '21 term project for 
 [Commitment](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Agile%20Core%20Values/Commitment.md)  <br />
 
 # Project Research 
-[Krishna - CICD Pipeline](https://github.com) <br />
+[Krishna - CICD Pipeline](https://github.com/krishnajha99/CMPE_Template/blob/main/Documentation/Project%20Research/Project-Research-CICD-Pipeline.md) <br />
 [Anupama - Node & AWS Lambda] <br />
 [Krishna - MongoDB] <br />
 [Gunjan - Front End] <br />
